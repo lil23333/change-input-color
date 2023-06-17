@@ -1,0 +1,10 @@
+button {
+    display: flex;
+    justify-content: center ;
+    background-color: black;
+    color: #fff;
+}
+input {
+    display: flex;
+    background-color: none;
+}
